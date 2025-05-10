@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image] (![alt text](image-1.png))
+![alt text](image-1.png)
 ## Ferramentas utilizadas:
 
 * HTML
